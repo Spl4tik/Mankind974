@@ -1,9 +1,11 @@
 public class Cooler {
     public int CooCoo;
+    public int CooQP;
 
-    public void doCooCoo(){
-        CooCoo+=5;
-        System.out.println("DOING COOOOCOOOOfffffffff "+CooCoo);
+    public void doCooCoo() {
+        CooCoo += 15;
+        CooQP = CooCoo * 3;
+        System.out.println("DOING COOOOCOOOOfffffffff " + CooCoo + " Coo + COQP:" + CooQP);
 
     }
 }
