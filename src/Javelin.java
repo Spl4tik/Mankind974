@@ -5,5 +5,8 @@ public class Javelin {
         coolerFirst.doCooCoo();
         coolerFirst.doCooCoo();
         coolerFirst.doCooCoo();
+        JKO jkoFirst = new JKO();
+        jkoFirst.doCooCoo();
+        jkoFirst.doCooCoo();
     }
 }
