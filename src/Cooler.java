@@ -4,7 +4,8 @@ public class Cooler {
 
     public void doCooCoo() {
         CooCoo = 12;
-        CooQP = CooCoo * 1;
+        CooQP = CooCoo * 1 * 10;
+        CooCoo = CooQP +CooCoo;
         System.out.println("D " + CooCoo + " Coo + COQP:" + CooQP);
 
     }
