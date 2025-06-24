@@ -1,4 +1,4 @@
 public class POWER {
     public int Wera1=325;
-    public int Wera2=44;
+    public int Wera2=464;
 }
