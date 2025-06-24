@@ -2,6 +2,8 @@ public class Cooler {
     public int CooCoo;
 
     public void doCooCoo(){
-        System.out.println("DOING COOOOCOOOOfffffffff");
+        CooCoo+=5;
+        System.out.println("DOING COOOOCOOOOfffffffff "+CooCoo);
+
     }
 }

@@ -3,5 +3,7 @@ public class Javelin {
         System.out.println("New Javelin");
         Cooler coolerFirst = new Cooler();
         coolerFirst.doCooCoo();
+        coolerFirst.doCooCoo();
+        coolerFirst.doCooCoo();
     }
 }
