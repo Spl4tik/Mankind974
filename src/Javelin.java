@@ -1,6 +1,6 @@
 public class Javelin {
     public static void main(String[] args) {
-        System.out.println("New 12dddd312312Javelin");
+        System.out.println("Ned312312Javelin");
         Cooler coolerFirst = new Cooler();
         coolerFirst.doCooCoo();
         coolerFirst.doCooCoo();
