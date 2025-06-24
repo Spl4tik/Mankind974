@@ -2,7 +2,7 @@ public class Cooler {
     public int CooCoo;
 
     public void doCooCoo(){
-        System.out.println("DOING CWWWWWWOOOOCOOOO");
+        System.out.println("DOING BBBBBBZ");
     }
 
 
