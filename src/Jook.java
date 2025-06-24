@@ -1,3 +1,5 @@
 public class Jook {
-    public int QQQSssSS565656;
+    public String ASKER;
+
+
 }
